@@ -1,0 +1,41 @@
+{
+  "header": {
+    "features": "Возможности",
+    "pricing": "Цены",
+    "signIn": "Войти",
+    "getStarted": "Начать",
+    "dashboard": "Панель управления"
+  },
+  "auth": {
+    "signIn": {
+      "title": "С возвращением",
+      "noAccount": "Нет аккаунта?",
+      "signUp": "Зарегистрироваться",
+      "email": "Электронная почта",
+      "password": "Пароль",
+      "rememberMe": "Запомнить меня",
+      "forgotPassword": "Забыли пароль?",
+      "signInButton": "Войти",
+      "orContinueWith": "Или продолжить с",
+      "signInWithGoogle": "Войти через Google"
+    },
+    "signUp": {
+      "title": "Создать аккаунт",
+      "haveAccount": "Уже есть аккаунт?",
+      "signIn": "Войти",
+      "fullName": "Полное имя",
+      "email": "Электронная почта",
+      "password": "Пароль",
+      "createAccount": "Создать аккаунт",
+      "orContinueWith": "Или продолжить с",
+      "signUpWithGoogle": "Зарегистрироваться через Google"
+    }
+  },
+  "dashboard": {
+    "meditation": "Медитация",
+    "journal": "Дневник",
+    "workouts": "Тренировки",
+    "learn": "Обучение",
+    "community": "Сообщество"
+  }
+}

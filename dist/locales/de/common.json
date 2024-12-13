@@ -1,0 +1,41 @@
+{
+  "header": {
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "signIn": "Anmelden",
+    "getStarted": "Loslegen",
+    "dashboard": "Dashboard"
+  },
+  "auth": {
+    "signIn": {
+      "title": "Willkommen zurück",
+      "noAccount": "Noch kein Konto?",
+      "signUp": "Registrieren",
+      "email": "E-Mail-Adresse",
+      "password": "Passwort",
+      "rememberMe": "Angemeldet bleiben",
+      "forgotPassword": "Passwort vergessen?",
+      "signInButton": "Anmelden",
+      "orContinueWith": "Oder fortfahren mit",
+      "signInWithGoogle": "Mit Google anmelden"
+    },
+    "signUp": {
+      "title": "Konto erstellen",
+      "haveAccount": "Bereits ein Konto?",
+      "signIn": "Anmelden",
+      "fullName": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "password": "Passwort",
+      "createAccount": "Konto erstellen",
+      "orContinueWith": "Oder fortfahren mit",
+      "signUpWithGoogle": "Mit Google registrieren"
+    }
+  },
+  "dashboard": {
+    "meditation": "Meditation",
+    "journal": "Journal",
+    "workouts": "Workouts",
+    "learn": "Lernen",
+    "community": "Community"
+  }
+}

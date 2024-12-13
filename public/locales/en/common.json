@@ -1,0 +1,41 @@
+{
+  "header": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "signIn": "Sign in",
+    "getStarted": "Get Started",
+    "dashboard": "Dashboard"
+  },
+  "auth": {
+    "signIn": {
+      "title": "Welcome back",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up",
+      "email": "Email address",
+      "password": "Password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot your password?",
+      "signInButton": "Sign in",
+      "orContinueWith": "Or continue with",
+      "signInWithGoogle": "Sign in with Google"
+    },
+    "signUp": {
+      "title": "Create your account",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "fullName": "Full name",
+      "email": "Email address",
+      "password": "Password",
+      "createAccount": "Create account",
+      "orContinueWith": "Or continue with",
+      "signUpWithGoogle": "Sign up with Google"
+    }
+  },
+  "dashboard": {
+    "meditation": "Meditation",
+    "journal": "Journal",
+    "workouts": "Workouts",
+    "learn": "Learn",
+    "community": "Community"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "header": {
+    "features": "תכונות",
+    "pricing": "תמחור",
+    "signIn": "התחברות",
+    "getStarted": "התחל עכשיו",
+    "dashboard": "לוח בקרה"
+  },
+  "auth": {
+    "signIn": {
+      "title": "ברוכים השבים",
+      "noAccount": "אין לך חשבון?",
+      "signUp": "הרשמה",
+      "email": "כתובת אימייל",
+      "password": "סיסמה",
+      "rememberMe": "זכור אותי",
+      "forgotPassword": "שכחת סיסמה?",
+      "signInButton": "התחברות",
+      "orContinueWith": "או המשך עם",
+      "signInWithGoogle": "התחבר עם Google"
+    },
+    "signUp": {
+      "title": "צור חשבון",
+      "haveAccount": "כבר יש לך חשבון?",
+      "signIn": "התחברות",
+      "fullName": "שם מלא",
+      "email": "כתובת אימייל",
+      "password": "סיסמה",
+      "createAccount": "צור חשבון",
+      "orContinueWith": "או המשך עם",
+      "signUpWithGoogle": "הרשם עם Google"
+    }
+  },
+  "dashboard": {
+    "meditation": "מדיטציה",
+    "journal": "יומן",
+    "workouts": "אימונים",
+    "learn": "למידה",
+    "community": "קהילה"
+  }
+}
